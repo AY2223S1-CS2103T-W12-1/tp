@@ -8,15 +8,14 @@ import static seedu.address.commons.util.AppUtil.checkArgument;
  * Guarantees: immutable; is valid as declared in {@link #isValidRemark(String)}
  */
 public class Remark {
-    public final String value;
     public static final String MESSAGE_CONSTRAINTS = "Remark can take any values, and it should not be blank";
+    public static final String VALIDATION_REGEX = "[^\\s].*";
+    public final String value;
 
-    /*
+    /**
      * The first character of the remark must not be a whitespace,
      * otherwise " " (a blank string) becomes a valid input.
      */
-    public static final String VALIDATION_REGEX = "[^\\s].*";
-
     public Remark(String remark) {
         requireNonNull(remark);
         checkArgument(isValidRemark(remark), MESSAGE_CONSTRAINTS);
