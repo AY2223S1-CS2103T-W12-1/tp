@@ -112,15 +112,14 @@ public class Person {
     @Override
     public String toString() {
         final StringBuilder builder = new StringBuilder();
+        //tags and remarks not required here as they shouldn't show up when contact is first added.
         builder.append(getName())
                 .append("; Phone: ")
                 .append(getPhone())
                 .append("; Email: ")
                 .append(getEmail())
                 .append("; Address: ")
-                .append(getAddress())
-                .append("; Remark: ")
-                .append(getRemark());
+                .append(getAddress());
 
         Set<Tag> tags = getTags();
         if (!tags.isEmpty()) {
