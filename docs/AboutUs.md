@@ -18,7 +18,6 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 [[portfolio](team/johndoe.md)]
 
 * Role: Project Advisor
-
 ### Kok Chun Khai
 
 <img src="images/avock.png" width="200px">
@@ -29,31 +28,30 @@ You can reach us at the email `seer[at]comp.nus.edu.sg`
 * Role: Team Lead
 * Responsibilities: UI
 
-### Johnny Doe
+### Xu Daofu
+<img src="images/therealdaofu.png" width="200px">
 
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)] [[portfolio](team/SkeletalProjectPortfolioPage.md)]
-
-* Role: Developer
-* Responsibilities: Data
-
-### Jean Doe
-
-<img src="images/johndoe.png" width="200px">
-
-[[github](http://github.com/johndoe)]
-[[portfolio](team/SkeletalProjectPortfolioPage.md)]
+[[github](https://github.com/therealdaofu)] [[portfolio](team/therealdaofu.md)]
 
 * Role: Developer
-* Responsibilities: Dev Ops + Threading
 
-### James Doe
+### Sun Yu Ting
+<img src="images/effixion.png" width="200px">
 
-<img src="images/johndoe.png" width="200px">
 
-[[github](http://github.com/johndoe)]
-[[portfolio](team/SkeletalProjectPortfolioPage.md)]
+[[github](http://github.com/effixion)]
+[[portfolio](team/effixion.md)]
+
 
 * Role: Developer
-* Responsibilities: UI
+* Responsibilities: to be added soon
+
+### Li Yingming
+
+<img src="images/yingming23.png" width="200px">
+
+[[github](http://github.com/Yingming23)]
+[[portfolio](team/yingming23.md)]
+
+* Role: Developer
+* Responsibilities: To be Added
