@@ -56,7 +56,7 @@ Refer to the guide [_Setting up and getting started_](SettingUp.md).
 [Back to Top](#socompiler-developer-guide)
 
 <div style="page-break-after: always;"></div>
---------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------
 ## 2. **Design**
 
 SoCompiler aims to provide features that are intuitive and simple to use. Keeping this in mind, 
